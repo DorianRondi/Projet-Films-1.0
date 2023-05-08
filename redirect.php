@@ -1,4 +1,6 @@
 <?php require_once('require'.DIRECTORY_SEPARATOR.'functions.php') ?>
+<a href=".">retour acceuil</a>
+</br>
 <?php
 $updatedFilm = NULL;
 $doomedFilm = NULL;
